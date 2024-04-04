@@ -1,5 +1,6 @@
 # A-deep-learning-method-in-automatically-detecting-rainfall-induced-shallow-landslides-in-a-data-sparse-context
 Authors: Roquia Salam, Filiberto Pla Bañón, Bayes Ahmed, Marco Painho
+
 Detecting rainfall-induced shallow landslides in data-sparse contexts is crucial for a comprehensive landslide disaster management plan.
 
 ![image](https://github.com/RoquiaSalam/A-deep-learning-method-in-automatically-detecting-rainfall-induced-shallow-landslides/assets/117322569/7da49b7a-3fa0-44f4-b21f-7033f4b6ac43)
