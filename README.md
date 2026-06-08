@@ -9,3 +9,5 @@ Detecting rainfall-induced shallow landslides in data-sparse contexts is crucial
 This collection includes both code and sample data for an experiment. Using the files provided here, you can train a deep learning segmentation model specifically tailored for analyzing high-resolution landslide datasets obtained from PlanetScope imagery. Deep learning-based U-net model is used for detecting the rainfall-induced shallow landslides in a data-sparse context. image
 
 The model can be used to detect rainfall-induced shallow landslides in a similar geograpgic context.
+Anyone can use the data by providing the appropriate acknowledgement to: 
+# Salam, R., Pla, F., Ahmed, B., & Painho, M. (2025). A Convolutional Neural Network-based approach for automatically detecting rainfall-induced shallow landslides in a data-sparse context. Natural Hazards Research, 5(1), 175-186.
